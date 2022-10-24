@@ -1,2 +1,4 @@
-# wendZzoo-blog
-front-end summary
+# 单例模式
+
+Singleton Pattern
+

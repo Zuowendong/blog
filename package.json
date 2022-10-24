@@ -1,0 +1,12 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "front-end summary",
+  "main": "index.js",
+  "scripts": {
+    "dev:mode": "pnpm -F design-mode dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
